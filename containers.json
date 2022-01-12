@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "My Server OVA",
+    "Format": "vmdk",
+    "UserBucket": {
+        "S3Bucket": "my-export-bucket12",
+        "S3Key": "redhat_7.3-disk1.vmdk"
+    }
+  }
+]
